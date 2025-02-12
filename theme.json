@@ -1,5 +1,6 @@
 {
   "displayName": "Modern",
   "isSystemTheme": true,
-  "name": "Default-New"
+  "name": "Default-New",
+  "systemTheme": true
 }
