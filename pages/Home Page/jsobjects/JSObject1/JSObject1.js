@@ -2,7 +2,7 @@ export default {
 	myVar1: [],
 	myVar2: {},
 	myFun1: () => {
-		//write code here
+		return "Hello World!";
 	},
 	myFun2: async () => {
 		const data = await getWorkOrders.data
