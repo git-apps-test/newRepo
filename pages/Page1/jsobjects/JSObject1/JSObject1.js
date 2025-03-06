@@ -3,7 +3,9 @@ export default {
 	myVar2: {},
 	myFun1 () {
 		console.log("somechanges");
-		//	write code here
+		const abc =1;
+		const defg = 3;
+		return abc + defg;
 		//	this.myVar1 = [1,2,3]
 	},
 
