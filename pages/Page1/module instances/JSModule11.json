@@ -27,6 +27,7 @@
       }
     },
     "name": "JSModule11",
-    "pageId": "Page1"
+    "pageId": "Page1",
+    "version": "v1.2.3"
   }
 }
