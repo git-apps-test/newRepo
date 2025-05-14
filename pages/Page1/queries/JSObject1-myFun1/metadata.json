@@ -27,6 +27,7 @@
     "fullyQualifiedName": "JSObject1.myFun1",
     "name": "myFun1",
     "pageId": "Page1",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -20,6 +20,7 @@
     "fullyQualifiedName": "_$JSModule11$_JSModule1.myFun1",
     "name": "myFun1",
     "pageId": "Page1",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": true
   }
 }

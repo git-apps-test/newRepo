@@ -1,11 +1,11 @@
 {
-  "gitSyncId": "67b4cde8505a8d3a945fcfa6_70fbcfe9-b59a-4333-8d09-736536cecd0b",
-  "id": "Home Page_getWorkOrders",
+  "gitSyncId": "6814a238e2d5ba603c9bf001_b6a56561-1ee3-460c-ac51-6ab864fdd88c",
+  "id": "Page1_Query1",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
-      "body": "select * from work_order;",
+      "body": "SELECT * FROM someTABLE",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [
@@ -23,10 +23,9 @@
       "pluginId": "postgres-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
-    "name": "getWorkOrders",
-    "pageId": "Home Page",
-    "runBehaviour": "ON_PAGE_LOAD",
+    "name": "Query1",
+    "pageId": "Page1",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
