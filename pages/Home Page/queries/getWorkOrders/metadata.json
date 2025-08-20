@@ -23,7 +23,6 @@
       "pluginId": "postgres-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
     "name": "getWorkOrders",
     "pageId": "Home Page",
     "runBehaviour": "ON_PAGE_LOAD",
