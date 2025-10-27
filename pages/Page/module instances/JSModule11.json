@@ -1,6 +1,6 @@
 {
   "gitSyncId": "67b59163e22f8166aa0d638f_886484ff-4a93-4762-a2cb-19a4f7d68bdf",
-  "id": "Page1_JSModule11",
+  "id": "Page_JSModule11",
   "moduleUUID": "b64b00fd-1218-40d2-b0c6-a090e2b95337",
   "packageUUID": "0a421f1b-cbfd-455b-8b92-beadf5fc6ed8",
   "type": "JS_MODULE",
@@ -27,7 +27,7 @@
       }
     },
     "name": "JSModule11",
-    "pageId": "Page1",
+    "pageId": "Page",
     "version": "v1.2.3"
   }
 }

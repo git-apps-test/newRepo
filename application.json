@@ -22,16 +22,19 @@
       "isDefault": false
     },
     {
-      "id": "Page1",
+      "id": "Page",
       "isDefault": true
     },
     {
-      "id": "Page2",
+      "id": "Page!",
+      "isDefault": false
+    },
+    {
+      "id": "Page!!",
       "isDefault": false
     }
   ],
-  "staticUrlEnabled": true,
-  "uniqueSlug": "newrepo",
+  "staticUrlEnabled": false,
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"

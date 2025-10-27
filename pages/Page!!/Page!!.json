@@ -1,36 +1,32 @@
 {
-  "gitSyncId": "67b4cde8505a8d3a945fcfa6_7d2e54a3-2bed-4a6e-b4c4-efd297dd9ea9",
+  "gitSyncId": "67b2d6365a237b44d405f751_4f4cb077-45d8-4e14-8714-fb8cee4b2599",
   "unpublishedPage": {
     "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 1150,
+          "bottomRow": 700,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
-          "minHeight": 930,
-          "mobileBottomRow": 1738,
-          "mobileTopRow": 0,
+          "minHeight": 710,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "positioning": "fixed",
-          "rightColumn": 1160,
+          "rightColumn": 1224,
           "snapColumns": 64,
-          "snapRows": 66,
+          "snapRows": 69,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
-          "useAutoLayout": false,
           "version": 94,
           "widgetId": "0",
           "widgetName": "MainContainer"
         }
       }
     ],
-    "name": "Home Page",
-    "slug": "home-page"
+    "name": "Page!!",
+    "slug": "page"
   }
 }
