@@ -28,6 +28,7 @@
       }
     ],
     "name": "Page",
-    "slug": "page"
+    "slug": "page",
+    "uniqueSlug": "page"
   }
 }

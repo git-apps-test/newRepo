@@ -27,6 +27,7 @@
       }
     ],
     "name": "Page!!",
-    "slug": "page"
+    "slug": "page",
+    "uniqueSlug": "page-2"
   }
 }
