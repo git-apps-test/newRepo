@@ -30,7 +30,10 @@
       "isDefault": false
     }
   ],
-  "staticUrlEnabled": false,
+  "staticUrlSettings": {
+    "enabled": true,
+    "uniqueSlug": "newrepo-test-branch"
+  },
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"
