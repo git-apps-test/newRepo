@@ -34,6 +34,10 @@
       "isDefault": false
     }
   ],
+  "staticUrlSettings": {
+    "enabled": true,
+    "uniqueSlug": "newrepo"
+  },
   "unpublishedApplicationDetail": {
     "appPositioning": {
       "type": "FIXED"
