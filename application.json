@@ -32,6 +32,10 @@
     {
       "id": "Page!!",
       "isDefault": false
+    },
+    {
+      "id": "Home Page Copy",
+      "isDefault": false
     }
   ],
   "staticUrlSettings": {
