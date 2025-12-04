@@ -10,4 +10,3 @@ This app is built using Appsmith. Turn any datasource into an internal app in mi
 
 ###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](https://dev.appsmith.com/applications/665468e742e7ac04c9df1e14/pages/665468e742e7ac04c9df1e16) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](https://dev.appsmith.com/applications/665468e742e7ac04c9df1e14/pages/665468e742e7ac04c9df1e16/edit)
 
-// EDIT: uno
